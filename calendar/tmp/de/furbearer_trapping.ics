@@ -12,12 +12,14 @@ END:VTIMEZONE
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231201
 DTEND;VALUE=DATE:20240310
-SUMMARY:DE-Furbearer-Trapping-Muskrat, Mink, Otter, Raccoon, Opossum, Nutria (New Castle County)
+SUMMARY:DE-Furbearer-Trapping-Muskrat, Mink, Otter, Raccoon,
+   Opossum, Nutria (New Castle County)
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231215
 DTEND;VALUE=DATE:20240315
-SUMMARY:DE-Furbearer-Trapping-Muskrat, Mink, Otter, Raccoon, Opossum, Nutria (Southern Counties)
+SUMMARY:DE-Furbearer-Trapping-Muskrat, Mink, Otter, Raccoon,
+  Opossum, Nutria (Southern Counties)
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20231201
@@ -34,4 +36,4 @@ DTSTART;VALUE=DATE:20230701
 DTEND;VALUE=DATE:20240630
 SUMMARY:DE-Furbearer-Trapping-Groundhog
 END:VEVENT
-END:VCALENDER
+END:VCALENDAR
